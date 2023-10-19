@@ -136,7 +136,8 @@ Execute the program using runserver command.
     </html>
 
 ## OUTPUT
-![Web capture_5-10-2023_978_](https://github.com/Kathir-2703/FWAD-EXP-3/assets/64436376/ab3e616f-a571-40cc-8b30-33916a8ab94a)
+<img width="960" alt="Screenshot 2023-10-05 090530" src="https://github.com/Kathir-2703/FWAD-EXP-3/assets/64436376/ec6e8245-cd3c-4348-8b29-e4df27355607">
+
 
 ## HTML VALIDATOR
 <img width="960" alt="KFWAD1output pdf" src="https://github.com/Kathir-2703/FWAD-EXP-3/assets/64436376/198f2720-2fb6-44f8-89c9-114ac9c765f2">
